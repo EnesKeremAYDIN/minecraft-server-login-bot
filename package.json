@@ -1,0 +1,14 @@
+{
+  "main": "bot.js",
+  "scripts": {"start": "bot index.js"},
+  "dependencies": {
+    "config": "^3.3.6",
+    "fs": "^0.0.2",
+    "mineflayer": "^3.6.0",
+    "mineflayer-blockfinder": "0.0.7",
+    "mineflayer-cmd": "^1.1.3"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
