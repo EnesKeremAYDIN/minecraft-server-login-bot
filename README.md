@@ -1,6 +1,3 @@
-# minecraft-server-login-bot
-Bot that can be used to login to the Minecraft server. 
-
 # How is it set up? (English)
 1) Fork the project through GitHub.
 2) Organize your "config.jso"n file and 20 lines from "Bot.js."
