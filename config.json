@@ -1,0 +1,6 @@
+{
+	"ip":"<server_ip>",
+	"port": "<server_port>",
+	"name": "<user_name>",
+	"auto-night-skip": "false"
+}
