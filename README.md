@@ -19,7 +19,7 @@ A Node.js bot that automates logging into a Minecraft server. This tool can be c
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/minecraft-server-login-bot.git
+   git clone https://github.com/EnesKeremAYDIN/minecraft-server-login-bot.git
    cd minecraft-server-login-bot
    ```
 
